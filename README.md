@@ -18,7 +18,7 @@ Transformamos espacios exteriores con un estilo moderno, sostenible y elegante, 
 
 - ⚛️ **React 18**
 - 💨 **TailwindCSS 3**
-- ⚡ **Vite** (para desarrollo rápido)
+- ⚡ **Vite**
 - 🌍 **Bilingüe (Español / Inglés)**
 
 ---
